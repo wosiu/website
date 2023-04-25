@@ -28,7 +28,7 @@ Table updated on 10/21/2019 against Harbor 1.9.
 | Role-Based Access Control                              | ✓      | ✓                       | ✓       | ✓                                 | ✗                           | ✓           | ✗        |
 | Single Sign On (OIDC)                                  | ✓      | ✓                       | ✓       | ✓                                 | ✗                           | partial     | ✗        |
 | Tag Retention Policy                                   | ✓      | ✗                       | ✓       | ✗                                 | ✗                           | ✗           | ✗        |
-| Upstream Registry Proxy Cache                          | ✗      | ✓                       | ✗       | ✗                                 | ✓                           | ✓           | ✗        |
+| Upstream Registry Proxy Cache                          | ✓      | ✓                       | ✗       | ✗                                 | ✓                           | ✓           | ✗        |
 | Vulnerability Scanning & Monitoring                    | ✓      | ✓                       | ✓       | ✗                                 | ✗                           | ✓           | partial  |
 | Vulnerability Scanning Plugin Framework                | ✓      | ✗                       | ✗       | ✗                                 | ✗                           | ✗           | ✗        |
 | Vulnerability Whitelisting                             | ✓      | ✗                       | ✗       | ✗                                 | ✗                           | ✗           | ✗        |
